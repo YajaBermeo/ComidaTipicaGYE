@@ -60,3 +60,10 @@
         }
     }
 </script>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Inteligencia_Artificial_II"
+  agent-id="a6e43451-3cb6-4d8a-8533-f84251211001"
+  language-code="es"
+></df-messenger>
