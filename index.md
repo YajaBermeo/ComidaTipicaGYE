@@ -1,4 +1,5 @@
 ## Bienvenidos al Proyecto de Inteligencia Artificial II 
+ En este proyecto se va a detectar las comidas tipicas de Guayaquil mediante imagenes 
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
